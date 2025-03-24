@@ -58,9 +58,12 @@ Briefly outline the technologies, frameworks, and tools used in development.
 ## 🚧 Challenges We Faced
 During the development of RecomAI, we encountered several challenges that pushed us to optimize our approach and refine our solution.
 
-🔹 Data Collection & Integration – Aggregating and processing customer data from multiple sources (social media, purchase history, sentiment analysis) while ensuring data       consistency and accuracy was challenging.
+🔹 Data Collection & Integration – Aggregating and processing customer data from multiple sources (social media, purchase history, sentiment analysis) while ensuring data consistency and accuracy was challenging.
+
 🔹 Finding the Right LLM - 
+
 🔹 Selecting the right dataset was crucial for training RecomAI to generate accurate and meaningful hyper-personalized recommendations. We needed datasets that contained diverse customer interactions, purchase behavior, sentiment data, and demographic details to build a robust AI model.
+
 
 ## 🏃 How to Run
 1. Clone the repository  
