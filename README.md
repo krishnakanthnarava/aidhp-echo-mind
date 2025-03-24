@@ -56,6 +56,7 @@ With RecomAI, businesses can go beyond generic recommendations and offer hyper-p
 The development of RecomAI involved multiple stages, from data collection and preprocessing to model training and deployment. Our approach combined data-driven insights, AI-powered recommendations, and real-time user interaction to create a seamless hyper-personalization engine.
 
 🏗 Development Process:
+
 1️⃣ Data Collection & Preprocessing
 
 Collected structured and unstructured data from customer profiles, purchase history, and sentiment analysis sources.
@@ -81,9 +82,13 @@ Developed an interactive UI using Streamlit for businesses to explore recommenda
 Designed a real-time dashboard for businesses to monitor engagement and optimize personalization strategies.
 
 🛠 Tech Stack We Used
+
 🚀 Programming Language: Python
+
 📊 Data Processing: Pandas, NumPy
+
 🧠 AI & Machine Learning: LLM
+
 📈 Data Visualization & UI: Streamlit
 
 By integrating LLMs with powerful data processing tools and an intuitive interface, RecomAI provides a scalable, AI-driven recommendation system that enhances customer engagement and business insights.
