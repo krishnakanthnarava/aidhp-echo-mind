@@ -36,12 +36,19 @@ By combining Generative AI, deep learning, and sentiment analysis, our solution 
 RecomAI is an AI-powered hyper-personalization engine that analyzes customer data to deliver real-time, personalized recommendations for products, services, or content. It helps businesses enhance customer engagement by leveraging Generative AI, sentiment analysis, and behavioral insights to understand and predict user preferences.
 
 Key Features:
+
 ✅ Customer Profiling – Aggregates and analyzes customer data from multiple sources (purchase history, demographics, social media, etc.).
+
 ✅ AI-Driven Recommendations – Uses Generative AI to deliver personalized product, service, or content suggestions.
+
 ✅ Sentiment Analysis – Understands customer emotions through social media activity, reviews, and feedback.
+
 ✅ Behavior Prediction – Predicts future customer interactions and preferences based on historical data.
+
 ✅ Business Insights – Provides actionable reports to help businesses optimize engagement and marketing strategies.
+
 ✅ Real-Time Adaptation – Continuously refines recommendations based on new data and user behavior.
+
 
 With RecomAI, businesses can go beyond generic recommendations and offer hyper-personalized experiences, driving customer satisfaction, loyalty, and increased revenue.
 
