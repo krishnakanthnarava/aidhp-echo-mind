@@ -81,16 +81,6 @@ Developed an interactive UI using Streamlit for businesses to explore recommenda
 
 Designed a real-time dashboard for businesses to monitor engagement and optimize personalization strategies.
 
-🛠 Tech Stack We Used
-
-🚀 Programming Language: Python
-
-📊 Data Processing: Pandas, NumPy
-
-🧠 AI & Machine Learning: LLM
-
-📈 Data Visualization & UI: Streamlit
-
 By integrating LLMs with powerful data processing tools and an intuitive interface, RecomAI provides a scalable, AI-driven recommendation system that enhances customer engagement and business insights.
 
 ## 🚧 Challenges We Faced
@@ -118,10 +108,14 @@ During the development of RecomAI, we encountered several challenges that pushed
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+
+🚀 Programming Language: Python
+
+📊 Data Processing: Pandas, NumPy
+
+🧠 AI & Machine Learning: LLM
+
+📈 Data Visualization & UI: Streamlit
 
 ## 👥 Team
 - Annapurna - [AnnapurnaBichala](#)
