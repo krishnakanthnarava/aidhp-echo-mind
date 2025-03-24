@@ -86,8 +86,8 @@ During the development of RecomAI, we encountered several challenges that pushed
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- Annapurna - [](#)
-- Krettika - [](#)
-- Shayan Halder - [](#)
-- Nalini - [](#)
-- Krishnakanth - [](#)
+- Annapurna - [AnnapurnaBichala](#)
+- Krettika - [krettika](#)
+- Shayan Halder - [xraptorgg](#)
+- Nalini - [vnalinii](#)
+- Krishnakanth - [krishnakanthnarava](#)
